@@ -76,4 +76,4 @@ Estabeleça um processo contínuo de monitoramento e revisão para identificar n
 A análise de risco é um processo dinâmico e contínuo. Ela permite que a equipe do projeto identifique problemas potenciais e tome medidas proativas para gerenciá-los, garantindo uma maior chance de sucesso do projeto. Certifique-se de documentar todo o processo e ajustar os planos conforme necessário.
 ```
 
-Esse formato pode ser utilizado diretamente em um arquivo `README.md` para documentação do projeto.
+
